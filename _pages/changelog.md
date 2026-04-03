@@ -9,14 +9,16 @@ include_in_header: true
 <br>
 
 # **1.0.0**
-This is the first release of the app, which offers these features:
+Bilimdon ilovasining birinchi versiyasi! Quyidagi imkoniyatlar mavjud:
 
-- Track your mood in seconds with intuitive options and emojis
-- Add notes to your feelings—what caused them, how you handled them, and more
-- Visualize your emotional journey with clean graphs and trends
-- Stay consistent with gentle reminders to check in
-- Use the app in several languages, which can be found in settings
-- Personalize by changing avatar and setting your name
+- 5 ta kategoriya: Tarix, Fan va Texnologiya, Geografiya, Adabiyot va Sport
+- 250+ savollar, 3 xil qiyinlik darajasida
+- Aqlli savol tizimi — ilova siz bilgan savollarni eslab qoladi
+- Haftalik reyting — boshqa o'yinchilar bilan raqobatlashing
+- Kundalik streak — har kuni o'ynab, izchil bo'ling
+- Kundalik chellanj — har kuni yangi kategoriya bo'yicha sinov
+- O'yinchi profili — taxallus va avatar sozlash
+- Vaqt bilan o'yin — tezkor javob bering va ko'proq ball to'plang
+- Ball ko'paytirish — qisqa reklama ko'rib, ballingizni ikki baravar oshiring
 
 <br>
-
